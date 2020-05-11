@@ -8,7 +8,7 @@ pandas = "*"
 matplotlib = "*"
 numpy = "*"
 ipykernel = "*"
-nltk = "*"
+nltk = ">=3.4.5"
 
 [dev-packages]
 
