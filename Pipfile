@@ -9,7 +9,6 @@ matplotlib = "*"
 numpy = "*"
 ipykernel = "*"
 nltk = "*"
-geopy = "*"
 
 [dev-packages]
 
