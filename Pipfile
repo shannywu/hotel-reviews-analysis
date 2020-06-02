@@ -9,6 +9,7 @@ matplotlib = "*"
 numpy = "*"
 ipykernel = "*"
 nltk = ">=3.4.5"
+wordcloud = "*"
 
 [dev-packages]
 
